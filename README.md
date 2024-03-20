@@ -44,7 +44,7 @@ PDF [click](https://github.com/thanaphornkanking/BSC_DPDM23/blob/main/Hw2_643021
   code        [click](https://github.com/thanaphornkanking/BSC_DPDM23/blob/59bab0481a0fdccb15c725a5ee0466bdbd7d7b69/Classification_2.ipynb)
 
 
-# กลุ่ม project data mining
+# กลุ่ม Final project data mining
 -  1.นายปิยพัทธ์ ปานะถึก 643020507-4
 -  2.นางสาวพิมชนก วงศ์สายเชื้อ 643020510-5
 -  3.นางสาววิภาดา ห่วงสูงเนิน 643020520-2
