@@ -10,6 +10,8 @@ Score
 - GitHub 5%
  
 Final Score = Score * %attendance
+
+
 #กลุ่ม HW4 Frequent Item Set & Association Rules
 -  1.นายปิยพัทธ์ ปานะถึก 643020507-4
 -  2.นางสาวพิมชนก วงศ์สายเชื้อ 643020510-5
