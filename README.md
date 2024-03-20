@@ -19,7 +19,7 @@ code [click](https://github.com/thanaphornkanking/BSC_DPDM23/blob/main/Frequent_
 PDF [click](https://github.com/thanaphornkanking/BSC_DPDM23/blob/main/Hw2_643021264-9.pdf)
 
 
-# กลุ่ม HW4 Decision tree classifier 
+# HW4 กลุ่ม Decision tree classifier 
 -  1.นายปิยพัทธ์ ปานะถึก 643020507-4
 -  2.นางสาวพิมชนก วงศ์สายเชื้อ 643020510-5
 -  3.นางสาววิภาดา ห่วงสูงเนิน 643020520-2
