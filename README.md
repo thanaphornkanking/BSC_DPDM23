@@ -11,7 +11,11 @@ Score
  
 Final Score = Score * %attendance
 
-# กลุ่ม HW1&2 Frequent Item Set & Association Rules
+# กลุ่ม HW1 Frequent Item Set & Association Rules
+
+# Hw2 การสร้างต้นไม้
+[click](https://github.com/thanaphornkanking/BSC_DPDM23/blob/main/Hw2_643021264-9.pdf)
+
 
 # กลุ่ม HW4 Decision tree classifier 
 -  1.นายปิยพัทธ์ ปานะถึก 643020507-4
