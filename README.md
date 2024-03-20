@@ -24,3 +24,4 @@ Final Score = Score * %attendance
 -  10.นางสาวจินดาพร โพธิ์ภูมี  643021262-3
 
   สไลด์นำเสนอ   [click](https://drive.google.com/drive/folders/1M8R6BkJkSzNAU2klRn-2PN4-3fvaIkZx?usp=sharing)
+  code         [click](https://github.com/thanaphornkanking/BSC_DPDM23/blob/main/Internet.ipynb)
