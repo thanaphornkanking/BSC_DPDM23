@@ -13,7 +13,9 @@ Final Score = Score * %attendance
 
 # Hw1 Frequent Item Set & Association Rules
 
+สไลด์นำเสนอ [click](https://github.com/thanaphornkanking/BSC_DPDM23/blob/main/%E0%B8%81%E0%B8%A5%E0%B8%B8%E0%B9%88%E0%B8%A1%E0%B9%84%E0%B8%94%E0%B9%89%E0%B8%AB%E0%B8%A1%E0%B8%94_%E0%B8%AA%E0%B9%84%E0%B8%A5%E0%B8%94%E0%B9%8C.pdf)
 code [click](https://github.com/thanaphornkanking/BSC_DPDM23/blob/main/Frequent_Patterns_(Association_Rules).ipynb)
+
 
 # Hw2 การสร้างต้นไม้
 PDF [click](https://github.com/thanaphornkanking/BSC_DPDM23/blob/main/Hw2_643021264-9.pdf)
