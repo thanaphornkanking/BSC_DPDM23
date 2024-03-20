@@ -41,7 +41,8 @@ PDF [click](https://github.com/thanaphornkanking/BSC_DPDM23/blob/main/Hw2_643021
 
 สไลด์นำเสนอ   [click](https://drive.google.com/drive/folders/1M8R6BkJkSzNAU2klRn-2PN4-3fvaIkZx?usp=sharing)
 
-  code         [click]([https://github.com/thanaphornkanking/BSC_DPDM23/blob/main/Internet.ipynb](https://github.com/thanaphornkanking/BSC_DPDM23/blob/59bab0481a0fdccb15c725a5ee0466bdbd7d7b69/Classification_2.ipynb))
+  code        [click](https://github.com/thanaphornkanking/BSC_DPDM23/blob/59bab0481a0fdccb15c725a5ee0466bdbd7d7b69/Classification_2.ipynb)
+
 
 # กลุ่ม project data mining
 -  1.นายปิยพัทธ์ ปานะถึก 643020507-4
