@@ -55,6 +55,7 @@ PDF [click](https://github.com/thanaphornkanking/BSC_DPDM23/blob/main/Hw2_643021
  code        [click](https://github.com/thanaphornkanking/BSC_DPDM23/blob/main/Midterm_BscDPDM23.ipynb)
 
 # กลุ่ม Final project data mining
+ทำนาย พฤติกรรม การใช้อินเทอร์เน็ต ในประเทศไทย
 -  1.นายปิยพัทธ์ ปานะถึก 643020507-4
 -  2.นางสาวพิมชนก วงศ์สายเชื้อ 643020510-5
 -  3.นางสาววิภาดา ห่วงสูงเนิน 643020520-2
