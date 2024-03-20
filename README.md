@@ -22,4 +22,6 @@ Final Score = Score * %attendance
 -  8.นางสาวสิรภัทร ไชยมาตย์ 643020523-6
 -  9.นายอาฤญช์ จรูญรักษ์ 643020528-6
 -  10.นางสาวจินดาพร โพธิ์ภูมี  643021262-3
+
+  
 [สไลด์นำเสนอ](https://drive.google.com/drive/folders/1M8R6BkJkSzNAU2klRn-2PN4-3fvaIkZx?usp=sharing)
