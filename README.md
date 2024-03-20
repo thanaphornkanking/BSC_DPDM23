@@ -1,5 +1,6 @@
 # BSC_DPDM23
-วิชา SC663403 Data Preparation and Data Mining ของ ธนพร ก้านกิ่ง
+วิชา SC663403 Data Preparation and Data Mining  
+thanaphorn kanking (ธนพร ก้านกิ่ง)
 
 Score
 - Midterm (data prepocessing ปฏิบัติ (เดี่ยว)) 20%
