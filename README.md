@@ -11,6 +11,11 @@ Score
  
 Final Score = Score * %attendance
 
+
+#PCA
+PCA (Principle Component Analysis)(lecture)
+code [click](https://github.com/thanaphornkanking/BSC_DPDM23/blob/main/%E0%B8%AA%E0%B8%B3%E0%B9%80%E0%B8%99%E0%B8%B2%E0%B8%82%E0%B8%AD%E0%B8%87_Dimensionality_Reduction_PCA.ipynb)
+
 # Hw1 Frequent Item Set & Association Rules
 
 สไลด์นำเสนอ [click](https://github.com/thanaphornkanking/BSC_DPDM23/blob/main/%E0%B8%81%E0%B8%A5%E0%B8%B8%E0%B9%88%E0%B8%A1%E0%B9%84%E0%B8%94%E0%B9%89%E0%B8%AB%E0%B8%A1%E0%B8%94_%E0%B8%AA%E0%B9%84%E0%B8%A5%E0%B8%94%E0%B9%8C.pdf)
