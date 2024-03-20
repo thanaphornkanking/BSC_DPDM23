@@ -11,6 +11,10 @@ Score
  
 Final Score = Score * %attendance
 
+# เนื้อหา
+
+รวมสไลด์ [click](https://drive.google.com/drive/folders/1LVKdVRyKjwfyW-TMEdfJvjI2ea5JA3LX?usp=sharing)
+
 
 # PCA
 PCA (Principle Component Analysis)(lecture)
